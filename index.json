@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-plugin-blender",
+  "versions": [
+    {
+      "commit": "d1929b593bddd2241a8939fb355e0a69b8e077af",
+      "tag": "main",
+      "parsed_at": "2026-09-29T08:21:40.507775+00:00"
+    }
+  ]
+}
