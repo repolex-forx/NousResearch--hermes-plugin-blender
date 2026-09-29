@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-blender",
+  "versions": [
+    {
+      "commit": "d1929b593bddd2241a8939fb355e0a69b8e077af",
+      "parsed_at": "2026-09-29T08:11:13.289014+00:00",
+      "tag": "main",
+      "filetree": "filetree/d1929b593bddd2241a8939fb355e0a69b8e077af.nq.gz",
+      "blobs": [
+        "blob/08e0503273275173a787ef59306b872e55c35ac9.nq.gz",
+        "blob/18ce4607b39114a0dda6ff93afa4ecdf38d1f1a1.nq.gz",
+        "blob/1e42db3501d405ff4a3d6a698b54d07f9e2c14b6.nq.gz",
+        "blob/e4be8fb1fd0262b555f7319c6b9c374262997cda.nq.gz",
+        "blob/456a8d3fa36a7f1c54a38a97f0703f37d3358f00.nq.gz",
+        "blob/a680a585dee8a7beec62ee4eac7bac55759a0f3e.nq.gz",
+        "blob/ede8dfd3cba95b1141fb4ffc948bd61855d5322f.nq.gz",
+        "blob/6e48260e4540f7fb4eb06b6c2834d0def2814f1e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
