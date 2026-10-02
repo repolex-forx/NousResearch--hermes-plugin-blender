@@ -3,6 +3,11 @@
   "repo": "hermes-plugin-blender",
   "versions": [
     {
+      "commit": "8aab816ce6577eb792a256b51777cbb4cd6523f0",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:18:58.263807+00:00"
+    },
+    {
       "commit": "d1929b593bddd2241a8939fb355e0a69b8e077af",
       "tag": "main",
       "parsed_at": "2026-09-29T08:21:40.507775+00:00"
