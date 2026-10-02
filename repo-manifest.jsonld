@@ -15,7 +15,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-blender/commit/8aab816ce6577eb792a256b51777cbb4cd6523f0",
       "git:hexsha": "8aab816ce6577eb792a256b51777cbb4cd6523f0",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
